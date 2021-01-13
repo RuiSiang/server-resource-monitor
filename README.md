@@ -1,2 +1,2 @@
-# koa-typescript-framework
-Express-like framework for koa2 in typescript
+# server-resource-monitor
+api and webapp for server monitoring in Nodejs
